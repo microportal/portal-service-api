@@ -1,7 +1,7 @@
-package br.org.portal.portalserviceapi;
+package org.microportal.api;
 
-import br.org.portal.portalserviceapi.config.ApplicationClientProperies;
-import br.org.portal.portalserviceapi.listener.ApplicationEventListener;
+import org.microportal.api.config.ApplicationClientProperies;
+import org.microportal.api.listener.ApplicationEventListener;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.cloud.openfeign.EnableFeignClients;

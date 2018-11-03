@@ -1,6 +1,6 @@
-package br.org.portal.portalserviceapi.client;
+package org.microportal.api.client;
 
-import br.org.portal.portalserviceapi.model.ApplicationBase;
+import org.microportal.api.model.ApplicationBase;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.*;
 

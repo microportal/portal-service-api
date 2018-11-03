@@ -1,4 +1,4 @@
-package br.org.portal.portalserviceapi.config;
+package org.microportal.api.config;
 
 import lombok.Getter;
 import lombok.Setter;

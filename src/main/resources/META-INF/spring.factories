@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=br.org.portal.portalserviceapi.PortalAutoconfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=org.microportal.api.PortalAutoconfiguration

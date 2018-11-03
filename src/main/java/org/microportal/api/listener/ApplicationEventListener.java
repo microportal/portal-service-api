@@ -1,10 +1,10 @@
-package br.org.portal.portalserviceapi.listener;
+package org.microportal.api.listener;
 
-import br.org.portal.portalserviceapi.client.ApplicationsControllerClient;
-import br.org.portal.portalserviceapi.config.ApplicationClientProperies;
-import br.org.portal.portalserviceapi.model.ApplicationBase;
 import lombok.Setter;
 import lombok.extern.slf4j.Slf4j;
+import org.microportal.api.client.ApplicationsControllerClient;
+import org.microportal.api.config.ApplicationClientProperies;
+import org.microportal.api.model.ApplicationBase;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.context.event.EventListener;

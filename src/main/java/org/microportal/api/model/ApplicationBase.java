@@ -1,4 +1,4 @@
-package br.org.portal.portalserviceapi.model;
+package org.microportal.api.model;
 
 import lombok.*;
 
